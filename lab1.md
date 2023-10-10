@@ -9,7 +9,7 @@ The working directory was still /home since I just changed the working directory
 3) When I typed cd with a path to a file there wasn't an error, but there was a message stating that the argument was not a directory since I gave it an absolute path to a file. The current directory was lecture1.
 
 
-![Image](ls.png)
+
 
 1) When I typed ls into the console with no argument it showed the file within /home which was lecture1. The working directory at this time was home since there was no cd before this command. There were no errors with this command. 
 
