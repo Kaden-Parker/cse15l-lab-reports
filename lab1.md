@@ -1,3 +1,5 @@
+# Cd Command
+
 ![Image](cd.png)
 
 1) When I first typed cd into the console nothing showed up since it requires a directory to change to. 
@@ -8,6 +10,7 @@ The working directory was still /home since I just changed the working directory
 
 3) When I typed cd with a path to a file there wasn't an error, but there was a message stating that the argument was not a directory since I gave it an absolute path to a file. The current directory was lecture1.
 
+# Ls Command
 
 ![Image](ls.png)
 
@@ -16,6 +19,8 @@ The working directory was still /home since I just changed the working directory
 2) When I typed ls with the path to the directory it showed all the files contained in lecture1. The working directory at this time was also still home since there was no cd command. There were no errors with this command.
 
 3) When I typed ls with a path to a file, it repeated the argument given in the console. The working directory was still home since there were no changes to the directory. There was no error message given.
+
+# Cat Command
 
 ![Image](cat.png)
 
